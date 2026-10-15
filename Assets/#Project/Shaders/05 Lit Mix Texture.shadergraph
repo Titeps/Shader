@@ -245,10 +245,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -594.9999389648438,
-            "y": -217.99996948242188,
+            "x": -586.9999389648438,
+            "y": -41.00001525878906,
             "width": 182.99996948242188,
-            "height": 249.00001525878907
+            "height": 248.99996948242188
         }
     },
     "m_Slots": [
@@ -321,10 +321,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -595.0000610351563,
-            "y": 332.0,
-            "width": 208.00006103515626,
-            "height": 350.0
+            "x": -611.9998779296875,
+            "y": 472.9999694824219,
+            "width": 207.99990844726563,
+            "height": 349.9999694824219
         }
     },
     "m_Slots": [
@@ -421,10 +421,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -758.0,
-            "y": 47.00001525878906,
+            "x": -749.9999389648438,
+            "y": 224.0,
             "width": 133.0,
-            "height": 33.99998474121094
+            "height": 33.999969482421878
         }
     },
     "m_Slots": [
@@ -456,7 +456,7 @@
     "m_ShaderOutputName": "Frequency",
     "m_StageCapability": 3,
     "m_Value": {
-        "x": 2.0,
+        "x": 3.0,
         "y": 2.0
     },
     "m_DefaultValue": {
@@ -517,10 +517,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -594.9999389648438,
-            "y": 46.99999237060547,
+            "x": -586.9999389648438,
+            "y": 224.0,
             "width": 182.99996948242188,
-            "height": 249.0
+            "height": 248.99996948242188
         }
     },
     "m_Slots": [
@@ -560,7 +560,7 @@
         "m_SerializableColors": []
     },
     "m_TextureType": 0,
-    "m_NormalMapSpace": 0,
+    "m_NormalMapSpace": 1,
     "m_EnableGlobalMipBias": true,
     "m_MipSamplingMode": 0
 }
@@ -1372,10 +1372,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -757.9999389648438,
-            "y": -217.99996948242188,
+            "x": -749.9999389648438,
+            "y": -41.00001525878906,
             "width": 131.0,
-            "height": 33.999908447265628
+            "height": 33.99998474121094
         }
     },
     "m_Slots": [
@@ -1408,10 +1408,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -966.0,
-            "y": 110.99999237060547,
-            "width": 207.99993896484376,
-            "height": 326.0
+            "x": -770.9999389648438,
+            "y": 257.9999694824219,
+            "width": 154.0,
+            "height": 142.00003051757813
         }
     },
     "m_Slots": [
@@ -1433,7 +1433,7 @@
         "scale"
     ],
     "m_Precision": 0,
-    "m_PreviewExpanded": true,
+    "m_PreviewExpanded": false,
     "m_DismissedVersion": 0,
     "m_PreviewMode": 0,
     "m_CustomColors": {
