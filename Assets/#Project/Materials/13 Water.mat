@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3435781333698660524
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Unity.RenderPipelines.Universal.Editor::UnityEditor.Rendering.Universal.AssetVersion
+  version: 10
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 13 Water
+  m_Shader: {fileID: -6465566751694194690, guid: 581458eac3f65b74cad6d45132642686, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 2
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses:
+  - MOTIONVECTORS
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _Normal_Map:
+        m_Texture: {fileID: 2800000, guid: 00a8e976c07137343955fccc771c3e54, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Surface_Foam_Texture:
+        m_Texture: {fileID: 2800000, guid: 29e3218e90edbee47b1a9f888751960a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _Depth_Float_Distance: 1
+    - _Intersection_Foam_Depth: 0.66
+    - _Normal_Speed: 0.001
+    - _Normal_Strength: 1
+    - _Normal_Tiling: 1
+    - _Normal_direction: 0.54
+    - _QueueControl: 1
+    - _QueueOffset: 0
+    - _RefractionStrength: 0.1
+    - _Refraction_Strength: 0.05
+    - _RefrcationScale: 0.3
+    - _Scale: 0.3
+    - _Strength: 0.03
+    - _Surface_Foam_Blend: 1
+    - _Surface_Foam_Direction: 47
+    - _Surface_Foam_Distortion: 2.18
+    - _Surface_Foam_Speed: 0.05
+    - _Surface_Foam_Tiling: 2.52
+    - _Wave_Length: 0.9
+    - _Wave_Speed: 0.15
+    - _Wave_Steepness: 0.9
+    - _horizon_distance: 4.5
+    - _intersection_Foam_Fade: 0.31
+    - _intersection_Foam_speed: 0.2
+    - _intersection_foam_direction: 45
+    - _intersection_foam_tiling: 5
+    - _refraction_Scale: 0.3
+    m_Colors:
+    - _Intersection_Foam_color: {r: 0.36078432, g: 0.8196079, b: 0.8980393, a: 1}
+    - _RefractionSpeed: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _Refraction_speed: {r: 0.1, g: 0.1, b: 0, a: 0}
+    - _Speed: {r: 0.05, g: 0.05, b: 0, a: 0}
+    - _Surface_Foam_Color: {r: 0.9009434, g: 0.9844577, b: 1, a: 1}
+    - _Wave_direction: {r: 15, g: -30, b: 8, a: 180}
+    - _deep_color: {r: 0.08036668, g: 0.3448992, b: 0.3962264, a: 1}
+    - _horizon_color: {r: 1, g: 0.5117957, b: 0, a: 1}
+    - _shallow_color: {r: 0.35933605, g: 0.817657, b: 0.8962264, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1
